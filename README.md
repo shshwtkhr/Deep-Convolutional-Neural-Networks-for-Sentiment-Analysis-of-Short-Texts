@@ -2,5 +2,5 @@
 
 <h2>Presentation of the project work:</h3>
 
-![slide_1](images/Slide1.png)
-<img src="images/Slide1.png" />
+![](images/Slide1.png)
+
