@@ -1,5 +1,7 @@
 # Deep-Convolutional-Neural-Networks-for-Sentiment-Analysis-of-Short-Texts
 
+<h3>To duplicate the project results, clone this reposotiry and run the Torun.py file from the src folder.</h3>
+
 <h2>Presentation of the project work:</h3>
 
 ![slide1](images/Slide1.PNG)
