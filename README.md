@@ -1,5 +1,9 @@
 # Deep-Convolutional-Neural-Networks-for-Sentiment-Analysis-of-Short-Texts
 
+<p>Libraries used: Tensorflow, PyTorch, Keras, Numpy, SciPy, Scikit-learn, and Theano.
+
+Implemented the Character to Sentence Convolutional Neural Network (CharSCNN) architecture as described in the research paper. For training the neural network: used the Stanford Twitter Sentiment corpus (STS), which contains Twitter messages.</p>
+
 <h3>To duplicate the project results, clone this reposotiry and run the Torun.py file from the src folder.</h3>
 
 <h2>Presentation of the project work:</h3>
